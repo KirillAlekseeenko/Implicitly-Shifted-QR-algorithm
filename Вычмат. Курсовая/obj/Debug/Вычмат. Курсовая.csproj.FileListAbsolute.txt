@@ -1,0 +1,21 @@
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.exe.config
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.exe
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.pdb
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат. Курсовая.csprojResolveAssemblyReference.cache
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.Form1.resources
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.Properties.Resources.resources
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат. Курсовая.csproj.GenerateResource.Cache
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.exe
+c:\users\кирилл\documents\visual studio 2013\Projects\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.pdb
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.exe.config
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.exe
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.pdb
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.exe
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.pdb
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат. Курсовая.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.Form1.resources
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.Properties.Resources.resources
+\\psf\Home\Desktop\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат. Курсовая.csproj.GenerateResource.Cache
+C:\Users\KirillUnrealEngine\Dropbox\Вычмат. Курсовая\Вычмат. Курсовая\bin\Debug\Вычмат.Курсовая.exe.config
+C:\Users\KirillUnrealEngine\Dropbox\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.exe
+C:\Users\KirillUnrealEngine\Dropbox\Вычмат. Курсовая\Вычмат. Курсовая\obj\Debug\Вычмат.Курсовая.pdb
